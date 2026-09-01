@@ -21,9 +21,6 @@ A plugin for **Paper 1.21.11** that turns the world border into a living, danger
 
 ## Скриншоты / Screenshots
 
-> Сюда добавь свои скриншоты - например, сохраняй их в папку `screenshots/` проекта.
-> Add your screenshots here - e.g. save them into the project's `screenshots/` folder.
-
 ### Подход к границе / Approaching the border
 
 ![Зона эффектов](screenshots/effect-zone.png)
